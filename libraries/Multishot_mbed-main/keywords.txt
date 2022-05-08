@@ -1,0 +1,4 @@
+Multishot KEYWORD1
+
+setPercent KEYWORD2
+getPercent KEYWORD2
